@@ -26,6 +26,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Overthinkr&show_icons=true&locale=en&theme=dark&layout=compact" alt="Overthinkr" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Overthinkr&show_icons=true&locale=en" alt="Overthinkr" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Overthinkr&show_icons=true&theme=dark&locale=en" alt="Overthinkr" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Overthinkr&" alt="Overthinkr" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Overthinkr&theme=dark&" alt="Overthinkr" /></p>
