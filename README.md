@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mayank Roy</h1>
 <h3 align="center">Full-stack MERN developer</h3>
 
-- 🔭 I’m currently working on [Salary/Overtime Calculator](https://github.com/Overthinkr/ReactRedux-Salary-Calculator)
+- 🔭 I’m currently working on an ML project
 
 - 🌱 I’m currently learning **Backend Development/Database integrations**
 
