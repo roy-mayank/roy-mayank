@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mayank Roy</h1>
-<h3 align="center">Full-stack MERN developer</h3>
+<h3 align="center">Full-stack MERN developer dabbling in data science too</h3>
 
-- 🔭 I’m currently working on an ML project
+- 🔭 I’m currently working on planning my next Full-stack website
 
-- 🌱 I’m currently learning **Backend Development/Database integrations**
+- 🌱 I’m currently learning **Data Science, Pipelining, Warehousing, etc. and AWS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Overthinkr](https://github.com/Overthinkr)
+- 👨‍💻 All of my projects are available at [https://github.com/roy-mayank](https://github.com/roy-mayank)
 
-- 💬 Ask me about **react, redux, python**
+- 📫 Reach me at **roy050703@gmail.com**
 
-- 📫 How to reach me **roy050703@gmail.com**
-
-- ⚡ Fun fact **When I get into it, I GET INTO IT**
+- ⚡ Yap to me about **CS, Aviation and Geography**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
