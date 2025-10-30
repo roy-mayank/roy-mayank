@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mayank Roy</h1>
-<h3 align="center">Full-stack MERN developer dabbling in data science too</h3>
+<h3 align="center">Primarily a Full-stack MERN developer, but I can do more everyday</h3>
 
-- 🔭 I’m currently working on planning my next Full-stack website
+- 🔭 I’m currently working on developing a distributed system w C++
 
-- 🌱 I’m currently learning **Data Science, Pipelining, Warehousing, etc. and AWS**
+- 🌱 I’m currently learning **Data Science, Pipelining, Warehousing, etc., AWS and System Design**
 
 - 👨‍💻 All of my projects are available at [https://github.com/roy-mayank](https://github.com/roy-mayank)
 
-- 📫 Reach me at **roy050703@gmail.com**
+- 📫 Reach me at **official.roymayank@gmail.com**
 
 - ⚡ Yap to me about **CS, Aviation and Geography**
 
