@@ -1,15 +1,13 @@
-<h1 align="center">Hi 👋, I'm Mayank Roy</h1>
-<h3 align="center">Primarily a Full-stack MERN developer, but I can do more everyday</h3>
+<h1 align="center">Hi! I'm Mayank Roy</h1>
+<h3 align="center">Primarily a Full-stack MERN developer. Also a Systems engineering enthusiast</h3>
 
-- 🔭 I’m currently working on developing a distributed system w C++
-
-- 🌱 I’m currently learning **Data Science, Pipelining, Warehousing, etc., AWS and System Design**
+- 🔭 I’m currently working on developing a distributed system with C++
 
 - 👨‍💻 All of my projects are available at [https://github.com/roy-mayank](https://github.com/roy-mayank)
 
 - 📫 Reach me at **official.roymayank@gmail.com**
 
-- ⚡ Yap to me about **CS, Aviation and Geography**
+- ⚡ Yap to me about **CS, Aviation and Geography** any time of day
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
