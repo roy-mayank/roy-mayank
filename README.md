@@ -8,7 +8,7 @@
 
 <p> I'm a current graduate CIS student at the University of Pennsylvania. I am interested in distributed systems and software engineering </p>
 
-### Recent Projects:
+### Recent Public Projects:
 
 **CIS 5050 FINAL PROJECT: PennCloud** | [Email me for report!](mailto:roy1@seas.upenn.edu)
 *Fall 2025*
